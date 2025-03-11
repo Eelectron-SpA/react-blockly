@@ -57,7 +57,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/nbudin/react-blockly/"
+    "url": "https://github.com/Eelectron-SpA/react-blockly/"
   },
   "packageManager": "yarn@3.4.1"
 }
